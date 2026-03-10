@@ -1,0 +1,5 @@
+```python
+selenium
+pytest
+webdriver-manager
+pytest-html
