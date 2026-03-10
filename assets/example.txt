@@ -1,0 +1,1 @@
+This folder stores screenshots or reports for the automation framework.
