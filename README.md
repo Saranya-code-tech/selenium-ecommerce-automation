@@ -63,6 +63,15 @@ Credentials:
 Username: standard_user  
 Password: secret_sauce
 
+## Key Highlights
+
+- Built a Selenium automation framework using Python and PyTest
+- Implemented Page Object Model (POM) design pattern
+- Added reusable WebDriver setup using fixtures
+- Implemented explicit waits for stable automation
+- Added HTML reporting for test execution results
+- Implemented automatic screenshot capture on test failures
+
 ## Author
 
 Saranya Ethiraj
